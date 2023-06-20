@@ -1,3 +1,4 @@
+
 This is WHATSUP CODE
 Author :Anusuya 
 
@@ -12,3 +13,9 @@ Attachment (Image, Audio, Video) code
 Hiding last seen details
 
 Hiding last chat details
+
+Adding the audio call feature
+
+Adding the video call feature
+
+
