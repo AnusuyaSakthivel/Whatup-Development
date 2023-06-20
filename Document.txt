@@ -10,3 +10,5 @@ Last seen code
 Attachment (Image, Audio, Video) code
 
 Hiding last seen details
+
+Hiding last chat details
